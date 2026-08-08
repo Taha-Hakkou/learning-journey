@@ -92,3 +92,5 @@ check code (repository queries folder)
 * State Management (the outcome of all the actions that the user has taken since the page loaded)
 * Event Handling
 * [todoMVC](https://todomvc.com/examples/react/dist/) app examples with different frameworks.
+
+* can see live dom changes in: dev tools > inspector
