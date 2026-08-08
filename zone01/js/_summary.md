@@ -11,8 +11,8 @@
 * css paint
 * no canvas
 * Developer Tools (using hot keys) -> firefox + chrome
-  - Performance (record actions)
-  - Paint Flashing option
+  - Performance (record actions) -> drop frames (note: we disabled acceleration - gpu -, because campus posts gpu caused some dropped frames !)
+  - ctrl+shift+p : command palette (fps + layers + Paint Flashing option...)
 * event loop
 
 * noscript tag
