@@ -15,7 +15,15 @@
   - Paint Flashing option
 * event loop
 
-check code + bonuses
+* noscript tag
+* mime type
+* window.dispatchEvent(new CustomEvent())
+* esdoc
+* commomjs (cjs)
+* add a label to a loop to  break it whenever you need
+* localStorage (types of browser storage)
+
++ check bonuses
 
 ## real-time-forum
 
