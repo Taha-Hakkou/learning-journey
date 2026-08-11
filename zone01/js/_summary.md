@@ -1,3 +1,7 @@
+## to check :
+* project (subject + audit + links)
+
+
 ## piscine-js
 
 *
