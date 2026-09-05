@@ -6,16 +6,16 @@
 
 ## make-your-game
 
-* fps
+* [60 fps](https://www.algolia.com/blog/engineering/60-fps-performant-web-animations-for-optimal-ux)
 * frame drops
-* RequestAnimationFrame
+* [RequestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/Window/requestAnimationFrame)
 * layers
 * css paint
 * no canvas
-* Developer Tools (using hot keys) -> firefox + chrome
+* Developer Tools (using hot keys) -> [firefox](https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Tools_and_setup/What_are_browser_developer_tools) + [chrome](https://developer.chrome.com/docs/devtools/)
   - Performance (record actions) -> drop frames (note: we disabled acceleration - gpu -, because campus posts gpu caused some dropped frames !)
   - ctrl+shift+p : command palette (fps + layers + Paint Flashing option...)
-* event loop
+* [event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Execution_model)
 
 * noscript tag
 * mime type
@@ -24,6 +24,7 @@
 * commomjs (cjs)
 * add a label to a loop to  break it whenever you need
 * localStorage (types of browser storage)
+* [junk/stutter animation](https://addyosmani.com/blog/making-a-site-jank-free/)
 
 + check bonuses:
   * score handling
