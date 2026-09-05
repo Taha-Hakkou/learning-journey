@@ -1,5 +1,14 @@
 # JavaScript
 
+all done: (except piscine)
+- subject
+- links
+
+still:
+- audit
+- code
+- notes
+
 ## piscine-js
 
 * js under the hood
@@ -43,16 +52,16 @@
 ## real-time-forum
 
 * sqlite (sql)
-* websockets (golang: gorilla + js)
-* spa
+* [websockets](https://en.wikipedia.org/wiki/WebSocket) (golang: gorilla + js)
+* [spa](https://en.wikipedia.org/wiki/Single-page_application)
 * throttle, debounce
 * bcrypt
 * uuid
-* go routines + channels
+* go [routines](https://golangbot.com/goroutines/) + [channels](https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb)
 * js event list, mainly the Keyboard events and the Focus events
 * shared workers
 
-check code
++ check code
 
 ## graphql
 
