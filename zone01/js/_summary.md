@@ -1,3 +1,5 @@
+# JavaScript
+
 ## piscine-js
 
 * js under the hood
@@ -23,7 +25,19 @@
 * add a label to a loop to  break it whenever you need
 * localStorage (types of browser storage)
 
-+ check bonuses
++ check bonuses:
+  * score handling
+    - Creating and using an API
+      + POST requests
+      + GET requests
+    - JSON
+    - Sorting algorithms
+  * history
+    - Game story mode
+  * different-maps
+    - [tile maps](https://developer.mozilla.org/en-US/docs/Games/Techniques/Tilemaps) + tile editors + tileset...
+    - Image manipulation
+    - Rendering
 
 ## real-time-forum
 
