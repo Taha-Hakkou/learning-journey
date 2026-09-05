@@ -1,8 +1,3 @@
-## to check :
-* project (subject + audit + links)
-* code + notes
-
-
 ## piscine-js
 
 * js under the hood
