@@ -118,3 +118,16 @@ check code (repository queries folder)
 * [todoMVC](https://todomvc.com/examples/react/dist/) app examples with different frameworks.
 
 * can see live dom changes in: dev tools > inspector
+
+## bomberman-dom
+
+- [`requestAnimationFrame`](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+- [Event loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
+- FPS
+- [Animation performance and frame rate](https://developer.mozilla.org/en-US/docs/Web/Performance/Animation_performance_and_frame_rate)
+- webSockets
+- Synchronization
+- Developer Tools
+  - [Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+  - [Chrome](https://developers.google.com/web/tools/chrome-devtools)
+- [Web-GL](https://get.webgl.org/)
