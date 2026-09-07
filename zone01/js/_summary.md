@@ -161,3 +161,8 @@ check code (repository queries folder)
   - Ruby is a programming language similar to Python and Perl. It is dynamically typed, interpreted, and can be modified at runtime (such as adding new methods to classes). It has many shortcuts that makes it very clean, methods are rarely over 10 lines. It has good RegEx support and works well for shell scripting.
   - Rails is a gem, or a Ruby library. Rails helps make web applications, providing classes for saving to the database, handling URLs and displaying html (along with a webserver, maintenance tasks, and much more).
 * ruby bundle
+
+### netfix
+
+* python/django
+* django templates
