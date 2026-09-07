@@ -131,3 +131,20 @@ check code (repository queries folder)
   - [Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
   - [Chrome](https://developers.google.com/web/tools/chrome-devtools)
 - [Web-GL](https://get.webgl.org/)
+
+
+==================================================================================================
+
+### stock-exchange-sim
+
+* Priority based project scheduling is a quick and easy heuristic scheduling technique that makes use of two components to construct a resource feasible project schedule, a [priority rule and a schedule generation scheme](http://www.pmknowledgecenter.com/node/256).
+
+* Here are some ways to schedule a scheme:
+  - [Serial schedule generation scheme](http://www.pmknowledgecenter.com/dynamic_scheduling/baseline/optimizing-regular-scheduling-objectives-schedule-generation-schemes): selects the activities one by one from the list and schedules them as-soon-as-possible in the schedule.
+
+  - [Parallel schedule generation scheme](http://www.pmknowledgecenter.com/dynamic_scheduling/baseline/optimizing-regular-scheduling-objectives-schedule-generation-schemes): selects at each predefined time period the activities available to be scheduled and schedules them in the list as long as enough resources are available.
+ 
+
+### mister-quiz
+
+
