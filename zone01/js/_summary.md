@@ -147,4 +147,13 @@ check code (repository queries folder)
 
 ### mister-quiz
 
+* php/laravel
+* mvc design pattern
+* blade templates
+* php artisan
+* XAMPP is the most popular PHP development environment and unites useful tools in order to make web development easier. It pretty much uses Apache2 (an http web server host), MySQL (a database management service) and phpMyAdmin (a web MySQL administration app).
 
+### shop
+
+* ruby/rails
+* 
