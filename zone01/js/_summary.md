@@ -1,14 +1,5 @@
 # JavaScript
 
-all done: (except piscine)
-- subject
-- links
-
-still:
-- audit
-- code
-- notes
-
 ## piscine-js
 
 * js under the hood
